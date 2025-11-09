@@ -1,0 +1,6 @@
+Hi ${name},
+
+I’m reaching out regarding ${company}. Short text-only fallback.
+
+Best,
+Your Name
